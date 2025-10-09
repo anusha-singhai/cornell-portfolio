@@ -17,6 +17,7 @@ A **Natural Language Processing (NLP)** project that uses a **Keras neural netwo
 ## Tech Stack
 
 - **Python**
+- **Jupyter Notebook**
 - **TensorFlow / Keras**
 - **scikit-learn**
 - **NumPy**
